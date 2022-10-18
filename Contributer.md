@@ -85,4 +85,7 @@ INSTITUTE/COMPANY : AtliQ Technologies <br>
 DOMAIN/LANGUGAE : React-Native<br>
 
 ------
-
+NAME : PRASANN ASRANI  <br>
+GITHUB :  https://github.com/Prasann707<br>
+INSTITUTE/COMPANY : JABALPUR ENGINEERING COLLEGE <br>
+DOMAIN/LANGUGAE : C++<br>
